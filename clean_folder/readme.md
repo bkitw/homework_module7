@@ -1,7 +1,4 @@
-# homework_module7
- Сделанная домашняя работа по седьмому модулю.
-
-Just doin my homework.
+Just doin my homework!
 
 WARNING!!! УВАГА!!! ВНИМАНИЕ!!!
 

@@ -1,0 +1,11 @@
+LICENSE
+setup.py
+clean_folder/__init__.py
+clean_folder/collector.py
+clean_folder/main.py
+clean_folder/normalize.py
+trash_sorter.egg-info/PKG-INFO
+trash_sorter.egg-info/SOURCES.txt
+trash_sorter.egg-info/dependency_links.txt
+trash_sorter.egg-info/entry_points.txt
+trash_sorter.egg-info/top_level.txt
