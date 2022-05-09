@@ -1,8 +1,8 @@
 from setuptools import setup, find_namespace_packages
 
 setup(
-    name='trash-sorter',
-    version='0.1.0',
+    name='clean-folder',
+    version='0.1.1',
     description='Hw 7. Clean folder',
     author='Serhii Sytnik',
     author_email='sytnikserhii22038@gmail.com',
